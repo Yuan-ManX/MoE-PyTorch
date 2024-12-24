@@ -1,7 +1,7 @@
 # MoE PyTorch
 
 <p align="center">
-  <img src="MoE.png" alt="MoE" style="display:block; margin:auto; width:680px;" />
+  <img src="MoE.png" alt="MoE" style="display:block; margin:auto; width:780px;" />
 </p>
 
 PyTorch implementation of Sparsely-Gated Mixture-of-Experts (MoE).
